@@ -31,21 +31,37 @@
 
 ## 正在开发
 
-### Neobudget
-
-**以项目为核心的个人财务管理。**
-
-不是把记账做得更复杂，而是把项目支出、订阅、续费、充值和提醒放进同一个清晰的上下文里。
-
-`Private` · `Work in progress`
-
 ### WriterOK
 
 **一个尽量不打断写作的 AI 写作工具。**
 
 需要时帮你续写、润色、重写；不需要时，就安静地做一个写作工具。
 
-`Private` · `Work in progress`
+`Private` · `AI-native` · `Work in progress`
+
+### Unsunk
+
+**一个原生 macOS 的订阅与持续支出管理工具。**
+
+用菜单栏更轻量地管理订阅、充值型项目和持续支出，关注“钱正在以什么速度流出去”。
+
+`Private` · `Swift` · `macOS` · `Work in progress`
+
+### Kanvi
+
+**把参考设计变成可复用排版模板。**
+
+从参考内容中提取设计风格，将 Markdown 套入模板，并进行预览、规则验证与输出。
+
+`Private` · `AI` · `Work in progress`
+
+### PodNotes
+
+**把音视频变成可以真正进入知识库的文字。**
+
+从播客、YouTube 或本地音视频开始，本地转录、按需翻译，再整理进 Obsidian。
+
+`Private` · `Local AI` · `Automation` · `Work in progress`
 
 ---
 
