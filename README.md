@@ -17,23 +17,35 @@
 
 ---
 
-## 正在做的东西
+## 公开作品
 
-### [Neobudget](https://github.com/neotu23/Neobudget)
+### [calxz](https://github.com/neotu23/calxz)
+
+**一个基于 Astro 的双语个人博客。**
+
+支持中文 / English 切换，也是我对个人网站、内容表达和 Web 设计的一次实践。
+
+→ [查看项目](https://github.com/neotu23/calxz)
+
+---
+
+## 正在开发
+
+### Neobudget
 
 **以项目为核心的个人财务管理。**
 
 不是把记账做得更复杂，而是把项目支出、订阅、续费、充值和提醒放进同一个清晰的上下文里。
 
-→ [查看项目](https://github.com/neotu23/Neobudget)
+`Private` · `Work in progress`
 
-### [WriterOK](https://github.com/neotu23/WriterOK)
+### WriterOK
 
 **一个尽量不打断写作的 AI 写作工具。**
 
 需要时帮你续写、润色、重写；不需要时，就安静地做一个写作工具。
 
-→ [查看项目](https://github.com/neotu23/WriterOK)
+`Private` · `Work in progress`
 
 ---
 
