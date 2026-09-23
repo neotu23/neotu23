@@ -1,16 +1,42 @@
-## Hi there 👋
+<p align="right">
+  <a href="./README.md">English</a> ·
+  <a href="./README.zh-CN.md">中文</a>
+</p>
 
-<!--
-**neotu23/neotu23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm neotu 👋
 
-Here are some ideas to get you started:
+I build small tools for problems I actually run into.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Mostly exploring **AI, productivity, writing, personal finance, and visual thinking** — turning random ideas into usable products.
+
+### Things I'm building
+
+- **Neobudget** — project-based expense tracking, subscriptions, renewals, and reminders.
+- **WriterOK** — a minimal writing tool for continuation, polishing, and rewriting with AI.
+
+### What I'm interested in
+
+`AI-native apps` · `macOS & iOS` · `Product Design` · `Indie Hacking` · `Automation` · `Open Source`
+
+I like software that feels simple on the surface, but solves a real problem underneath.
+
+A lot of my projects start the same way:
+
+> “Why doesn't a simple tool for this exist?”
+
+Then I try to build one.
+
+### Currently exploring
+
+- AI-assisted writing and research
+- Native apps for macOS / iOS
+- Personal productivity systems
+- Visual tools for product research
+- Small, focused software products
+- Better ways for humans to work with AI
+
+---
+
+Building things, breaking things, learning in public.
+
+**neotu**
