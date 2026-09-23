@@ -31,21 +31,37 @@ It supports Chinese / English switching and serves as an ongoing experiment in p
 
 ## In development
 
-### Neobudget
-
-**Project-based personal finance.**
-
-Instead of making expense tracking more complicated, it keeps project spending, subscriptions, renewals, prepaid balances, and reminders in one clear context.
-
-`Private` · `Work in progress`
-
 ### WriterOK
 
 **An AI writing tool that tries not to interrupt the writing itself.**
 
 Use AI when you need continuation, rewriting, or polishing. When you don't, it stays out of the way.
 
-`Private` · `Work in progress`
+`Private` · `AI-native` · `Work in progress`
+
+### Unsunk
+
+**A native macOS tool for subscriptions and recurring spending.**
+
+A lightweight menu-bar app for tracking subscriptions, prepaid projects, and the ongoing cost of things you keep paying for.
+
+`Private` · `Swift` · `macOS` · `Work in progress`
+
+### Kanvi
+
+**Turn reference designs into reusable publishing templates.**
+
+Extract visual patterns from reference content, apply them to Markdown, then preview, validate, and export the result.
+
+`Private` · `AI` · `Work in progress`
+
+### PodNotes
+
+**Turn audio and video into knowledge you can actually keep.**
+
+Start with podcasts, YouTube, or local media, transcribe locally, translate when needed, then organize the result into Obsidian.
+
+`Private` · `Local AI` · `Automation` · `Work in progress`
 
 ---
 
