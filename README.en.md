@@ -17,23 +17,35 @@ I care more about **thinking through the problem** than adding more features. As
 
 ---
 
-## What I'm building
+## Public work
 
-### [Neobudget](https://github.com/neotu23/Neobudget)
+### [calxz](https://github.com/neotu23/calxz)
+
+**A bilingual personal blog built with Astro.**
+
+It supports Chinese / English switching and serves as an ongoing experiment in personal publishing, web design, and content presentation.
+
+→ [View project](https://github.com/neotu23/calxz)
+
+---
+
+## In development
+
+### Neobudget
 
 **Project-based personal finance.**
 
 Instead of making expense tracking more complicated, it keeps project spending, subscriptions, renewals, prepaid balances, and reminders in one clear context.
 
-→ [View project](https://github.com/neotu23/Neobudget)
+`Private` · `Work in progress`
 
-### [WriterOK](https://github.com/neotu23/WriterOK)
+### WriterOK
 
 **An AI writing tool that tries not to interrupt the writing itself.**
 
 Use AI when you need continuation, rewriting, or polishing. When you don't, it stays out of the way.
 
-→ [View project](https://github.com/neotu23/WriterOK)
+`Private` · `Work in progress`
 
 ---
 
