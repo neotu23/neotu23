@@ -1,42 +1,42 @@
 <p align="right">
-  <a href="./README.md">English</a> ·
-  <a href="./README.zh-CN.md">中文</a>
+  <a href="./README.md">中文</a> ·
+  <a href="./README.en.md">English</a>
 </p>
 
-# Hi, I'm neotu 👋
+# 你好，我是 neotu 👋
 
-I build small tools for problems I actually run into.
+我喜欢把自己真正遇到的问题，做成简单、实用的小工具。
 
-Mostly exploring **AI, productivity, writing, personal finance, and visual thinking** — turning random ideas into usable products.
+目前主要在探索 **AI、效率工具、写作、个人财务和视觉化思考**，尝试把一些零散的想法变成真正可以使用的产品。
 
-### Things I'm building
+### 正在做的项目
 
-- **Neobudget** — project-based expense tracking, subscriptions, renewals, and reminders.
-- **WriterOK** — a minimal writing tool for continuation, polishing, and rewriting with AI.
+- **Neobudget** — 以项目为核心的支出管理工具，用来管理订阅、续费、充值和提醒。
+- **WriterOK** — 一个简洁的 AI 写作工具，专注于续写、润色和重写。
 
-### What I'm interested in
+### 我感兴趣的方向
 
-`AI-native apps` · `macOS & iOS` · `Product Design` · `Indie Hacking` · `Automation` · `Open Source`
+`AI 原生应用` · `macOS & iOS` · `产品设计` · `独立开发` · `自动化` · `开源`
 
-I like software that feels simple on the surface, but solves a real problem underneath.
+我喜欢那种表面上足够简单，但背后真正解决了一个具体问题的软件。
 
-A lot of my projects start the same way:
+我的很多项目，通常都从同一个问题开始：
 
-> “Why doesn't a simple tool for this exist?”
+> “为什么这件事没有一个更简单的工具？”
 
-Then I try to build one.
+然后，我会尝试自己做一个。
 
-### Currently exploring
+### 最近在探索
 
-- AI-assisted writing and research
-- Native apps for macOS / iOS
-- Personal productivity systems
-- Visual tools for product research
-- Small, focused software products
-- Better ways for humans to work with AI
+- AI 辅助写作与研究
+- macOS / iOS 原生应用
+- 个人效率系统
+- 产品研究与视觉化工具
+- 小而专注的软件产品
+- 人和 AI 更自然的协作方式
 
 ---
 
-Building things, breaking things, learning in public.
+持续做东西、踩坑，也持续公开学习和迭代。
 
 **neotu**
